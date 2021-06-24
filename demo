@@ -3,3 +3,4 @@ ls -ltr
 df -h
 cal
 date
+uname
